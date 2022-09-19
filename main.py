@@ -1,5 +1,5 @@
 print('hello world')
-print ('klre')
+print ('kle')
 print('gfd')
-
+print('python')
 print('gdgd')
